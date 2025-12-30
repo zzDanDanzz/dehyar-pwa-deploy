@@ -1,0 +1,1 @@
+{"name":"Dehyar Map","short_name":"Dehyar","description":"Offline Map Application for Dehyars","start_url":"/dehyar-pwa/","display":"standalone","background_color":"#ffffff","theme_color":"#144193","lang":"en","scope":"/dehyar-pwa/","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
